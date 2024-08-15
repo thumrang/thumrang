@@ -1,6 +1,6 @@
 # Hi! I'm Thum 👋 #
 <img src = "https://github.com/thumrang/thumrang/blob/main/Thum%20Rangsiyawawranon.png" >
-👋 Hello! I'm a passionate Cybersecurity Practitioner dedicated to building a more secure future. My journey in cybersecurity is driven by a commitment to not only protect but also to innovate.
+👋 Hello! I'm a passionate Cybersecurity Practitioner dedicated to building a more secure future. I hold certifications such as the CompTIA Netowrk+, Security+, CYSA+ and AWS Certitified Cloud Practiioner. My journey in cybersecurity is driven by a commitment to not only protect but also to innovate.
 
 ## 🌟 What I'm About
 Cybersecurity Enthusiast: I’m deeply interested in creating robust security solutions and advancing the field of cybersecurity. Whether it's threat detection or vulnerability management, I'm constantly exploring new ways to enhance security measures.
