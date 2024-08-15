@@ -1,6 +1,6 @@
 # Hi! I'm Thum 👋 #
 <img src = "https://github.com/thumrang/thumrang/blob/main/Thum%20Rangsiyawawranon.png" >
-👋 Hello! I'm a passionate Cybersecurity Practitioner dedicated to building a more secure future. I hold certifications such as the CompTIA Network+, Security+, CYSA+ and AWS Certitified Cloud Practioner. My journey in cybersecurity is driven by a commitment to not only protect but also to innovate.
+👋 Hello! I'm a passionate Cybersecurity Practitioner dedicated to building a more secure future. I hold certifications such as the CompTIA <a href = "https://www.credly.com/badges/107cf936-2e78-432f-846f-8014c1da59f5/linked_in_profile">Network+</a>, <a href = "https://www.credly.com/badges/a6cd98ee-b5e3-49e5-8fdb-73cd398a4792/linked_in_profile">Security+</a>, <a href = "https://www.credly.com/badges/a6cd98ee-b5e3-49e5-8fdb-73cd398a4792/linked_in_profile">CySA+</a> and <a href = "https://www.credly.com/badges/a6cd98ee-b5e3-49e5-8fdb-73cd398a4792/linked_in_profile">AWS Certitified Cloud Practioner</a>. My journey in cybersecurity is driven by a commitment to not only protect but also to innovate.
 
 ## 🌟 What I'm About
 Cybersecurity Enthusiast: I’m deeply interested in creating robust security solutions and advancing the field of cybersecurity. Whether it's threat detection or vulnerability management, I'm constantly exploring new ways to enhance security measures.
