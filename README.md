@@ -1,7 +1,10 @@
+# Hi! I'm Thum 👋 #
 
 ![me](https://github.com/thumrang/thumrang/blob/main/giphy-downsized-large.gif)
 
-# Hi! Welcome to my GitHub #
+
+
+
 
 
 
