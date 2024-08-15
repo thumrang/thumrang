@@ -18,7 +18,7 @@ Collaborative Projects: Engaging in projects that foster collaboration and innov
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thum-rang/)
 
 
-![me](https://github.com/thumrang/thumrang/blob/main/giphy-downsized-large.gif)
+### ![me](https://github.com/thumrang/thumrang/blob/main/giphy-downsized-large.gif)
 
 
 
