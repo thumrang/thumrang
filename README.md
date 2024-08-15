@@ -14,7 +14,7 @@ Developing Automated Solutions: I'm working on integrating automation with cyber
 
 Collaborative Projects: Engaging in projects that foster collaboration and innovation in the cybersecurity space. If you're interested in working together, feel free to reach out!
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thum-rang/)
 
 
